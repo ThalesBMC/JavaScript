@@ -66,3 +66,11 @@ singIn(usernameCheck, passwordCheck);
 //} else {
 //  alert("wrong password ou username");
 //}
+if ((1 + 1 = 2)) {
+  if ((3 + 4 = 8)) {
+  } else {
+    console.log("de dentro");
+  }
+} else {
+  console.log("de fora");
+}
